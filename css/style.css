@@ -1,0 +1,35 @@
+.header{
+	height: 80px;
+	background-color: green;
+	font-size: 30px;
+	text-align: center;
+
+}
+
+.wrapper{
+	border: 5px solid yellow;
+	overflow: hidden;
+}
+.blog{
+	width: 30%;
+	min-height: 450px;
+	background-color: brown;
+	float: left;
+	font-size: 30px;
+	text-align: center;
+}
+.content{
+	width: 70%;
+	min-height: 450px;
+	background-color: blue;
+	float: right;
+	font-size: 30px;
+	text-align: center;
+}
+
+.footer{
+	min-height: 80px;
+	background-color: lightblue;
+	font-size: 30px;
+	text-align: center;
+}
